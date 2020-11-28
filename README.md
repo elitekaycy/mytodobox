@@ -1,7 +1,7 @@
 # MyTodoApp
 ## TodoBox
 
-### [todobox - visit site here](https://elitekaycy.github.io/TodoBox)
+### [todobox - visit site here](https://elitekaycy.github.io/mytodobox)
 
 ## Tools and dependencys used to build
 #### React library , 

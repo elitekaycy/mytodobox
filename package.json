@@ -2,6 +2,10 @@
   "name": "todobox",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": "13.11.0",
+    "npm": "6.13.7"
+  },
   "homepage": "https://elitekaycy.github.io/mytodobox",
   "dependencies": {
     "@material-ui/core": "^4.11.1",
