@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/mytodobox/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/mytodobox/static/js/main.92838e78.chunk.js",
+    "main.js.map": "/mytodobox/static/js/main.92838e78.chunk.js.map",
+    "runtime-main.js": "/mytodobox/static/js/runtime-main.b2adf299.js",
+    "runtime-main.js.map": "/mytodobox/static/js/runtime-main.b2adf299.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/mytodobox/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.31e81748.chunk.js": "/mytodobox/static/js/2.31e81748.chunk.js",
+    "static/js/2.31e81748.chunk.js.map": "/mytodobox/static/js/2.31e81748.chunk.js.map",
+    "index.html": "/mytodobox/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/mytodobox/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/mytodobox/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.31e81748.chunk.js.LICENSE.txt": "/mytodobox/static/js/2.31e81748.chunk.js.LICENSE.txt",
+    "static/media/heroimg.a451231c.jpg": "/mytodobox/static/media/heroimg.a451231c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b2adf299.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.31e81748.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.92838e78.chunk.js"
+  ]
+}
