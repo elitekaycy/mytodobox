@@ -27,6 +27,7 @@ const [todo, Settodo] = useState('')
     return (
         <div className="clear-fix" style={{display: 'flex', flexDirection: "row", alignItems:"center"}}>
         <div style={{width: '80%'}}>
+            <form onSubmit={updatetodo}>
              <TextField 
                variant="filled"
                 placeholder="add new todo"
@@ -35,6 +36,7 @@ const [todo, Settodo] = useState('')
                 value={todo}
                 onChange={(e) => {Settodo(e.target.value)}}
                />
+               </form>
              </div> 
              <div className='ml-3' style={{cursor: 'pointer'}}>
               <IconButton disabled={todo === '' ? true:false} color='primary'>

@@ -3,8 +3,14 @@ import Createtask from './Pages/Createtask';
 import Createuser from './Pages/Createuser';
 import Home from './Pages/Home';
 import Todo from './Pages/Todo';
+import { useEffect } from 'react'
 
 function App() {
+
+  useEffect(() => {
+    document.title = 'mytodobox'
+  })
+  
   return (
    <Switch>
      <Route exact path="/" component={Home} />

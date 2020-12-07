@@ -30,6 +30,8 @@ function Todo(prop) {
 
     useEffect(() => {
         loadpage()
+
+        //eslint-disable-next-line
     }, [])
 
     return (
